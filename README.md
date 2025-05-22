@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **neeliravitej@gmail.com**
 
-- My Portfolio: **ravitejneeli.netlify.app**
+- My Portfolio: **[ravitejneeli.netlify.app](https://ravitejneeli.netlify.app/)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
